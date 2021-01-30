@@ -10,6 +10,12 @@ Solutions in Java are contained directly in this repo and are the same solutions
 in. Solutions in other programming languages are contributed by the community and each have
 their own dedicated repos which are referenced from this repo as git submodules. What this means for cloning:
 
+## Cloning
+
+Solutions in Java are contained directly in this repo and are the same solutions found
+in. Solutions in other programming languages are contributed by the community and each have
+their own dedicated repos which are referenced from this repo as git submodules. What this means for cloning:
+
 - If you're only interested in the Java solutions:
 
         git clone https://github.com/careercup/CtCI-6th-Edition.git
