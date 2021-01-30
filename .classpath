@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
- 	<classpathentry kind="src" path="Java/Big_O"/>
+ 	
 	<classpathentry kind="src" path="Java/Ch01.Arrays_and_Strings"/>
 	<classpathentry kind="src" path="Java/Ch02.Linked_Lists"/>
 	<classpathentry kind="src" path="Java/Ch03.Stacks_and_Queues"/>
@@ -16,7 +16,8 @@
 	<classpathentry kind="src" path="Java/Ch15.Threads_and_Locks"/>
 	<classpathentry kind="src" path="Java/Ch17.Hard"/>
 	<classpathentry kind="src" path="Java/CtCILibrary"/>
-	<classpathentry kind="src" path="Java/Introduction"/> 
+	<classpathentry kind="src" path="Java/Ch00.Engineering_Concepts"/> 
+	<classpathentry kind="src" path="Java/Big_O"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
