@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+ 	<classpathentry kind="src" path="Java/Big_O"/>
+	<classpathentry kind="src" path="Java/Ch01.Arrays_and_Strings"/>
+	<classpathentry kind="src" path="Java/Ch02.Linked_Lists"/>
+	<classpathentry kind="src" path="Java/Ch03.Stacks_and_Queues"/>
+	<classpathentry kind="src" path="Java/Ch04.Trees_and_Graphs"/>
+	<classpathentry kind="src" path="Java/Ch05.Bit_Manipulation"/>
+	<classpathentry kind="src" path="Java/Ch06.Math_and_Logic_Puzzles"/>
+	<classpathentry kind="src" path="Java/Ch07.Object-Oriented_Design"/>
+	<classpathentry kind="src" path="Java/Ch08.Recursion_and_Dynamic_Programming"/>
+	<classpathentry kind="src" path="Java/Ch09.Scalability and_Memory_Limits"/>
+	<classpathentry kind="src" path="Java/Ch10.Sorting_and_Searching"/>
+	<classpathentry kind="src" path="Java/Ch13.Java"/>
+	<classpathentry kind="src" path="Java/Ch16.Moderate"/>
+	<classpathentry kind="src" path="Java/Ch15.Threads_and_Locks"/>
+	<classpathentry kind="src" path="Java/Ch17.Hard"/>
+	<classpathentry kind="src" path="Java/CtCILibrary"/>
+	<classpathentry kind="src" path="Java/Introduction"/> 
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
